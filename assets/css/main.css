@@ -524,7 +524,7 @@ footer.sticky-bottom {
 .publications h2 span {
   font-size: 1.5rem;
 }
-.publications h2.year {
+.publications h2.bibliography {
   color: var(--global-divider-color);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1rem;
@@ -595,16 +595,20 @@ footer.sticky-bottom {
   padding-right: 1rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
+  margin-left: 0;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
+.publications ol.bibliography li .badges {
+  padding-bottom: 0.5rem;
+}
 .publications ol.bibliography li .badges span {
   display: inline-block;
   color: #000000;
   height: 100%;
-  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   vertical-align: middle;
 }
 .publications ol.bibliography li .badges span:hover {
