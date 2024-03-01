@@ -503,6 +503,11 @@ footer.sticky-bottom {
   text-align: right;
 }
 
+.news-container {
+  height: auto; /* Allow the container to grow as more entries are added */
+  overflow: visible; /* Ensure that content is not clipped with a scrollbar */
+}
+
 .publications {
   margin-top: 2rem;
 }
