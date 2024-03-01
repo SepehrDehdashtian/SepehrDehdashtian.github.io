@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p> 3208 </p>
     <p> 428 S Shaw Ln # 3115 </p>
     <p> East Lansing, MI 48824 </p>
