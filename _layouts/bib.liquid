@@ -13,8 +13,8 @@
             {% if venue_style %}
               {{ venue_style }}
             {% endif %}
-            ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
-          >
+            >{ entry.abbr }</abbr>
+
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
             include figure.liquid
