@@ -13,7 +13,7 @@
             {% if venue_style %}
               {{ venue_style }}
             {% endif %}
-            >{ entry.abbr }</abbr>
+            >{{ entry.abbr }}</abbr>
 
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
