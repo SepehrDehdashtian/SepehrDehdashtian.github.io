@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Sepehr, a PhD student in Computer Science at Michigan State University.
+Hi there! I'm Sepehr, currently pursuing a PhD in Computer Science at Michigan State University, with a Master's degree in Electrical Engineering from Sharif University of Technology.
 
-My research interests center around Invariant Representation Learning and specifically Fairness in Machine Learning models. I graduated from Sharif University of Technology with a Master of Science in Electrical Engineering.
+My primary focus is on ensuring fairness in machine learning models, including mitigating bias in CLIP models, exploring utility versus fairness trade-offs in datasets, and auditing models and datasets for bias. I'm also delving into the fundamentals of bias and fairness in generative AI to contribute to the development of more equitable AI systems.
 
-I'm passionate about applying ML to real-world problems and am always looking to collaborate with other researchers. If you're interested in discussing my research, feel free to reach out via [email](mailto:sepehr@msu.edu) or social media. You can also find [my CV](https://sepehrdehdashtian.github.io/assets/pdf/CV-SepehrDehdashtian.pdf), research papers, and other materials on this website!
+If you're interested in discussing my research or anything else, feel free to reach out via [email](mailto:sepehr@msu.edu) or connect with me on social media. You can find more about me and my work on this website and [my CV](https://sepehrdehdashtian.github.io/assets/pdf/CV-SepehrDehdashtian.pdf). Additionally, I am actively seeking research internship opportunities and would love to hear from you. Looking forward to connecting!
