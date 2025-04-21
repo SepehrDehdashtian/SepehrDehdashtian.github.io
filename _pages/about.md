@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> 428 S Shaw Ln # 3208 </p>
-    <p> East Lansing, MI 48824 </p>
+    <p> East Lansing, MI </p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -24,4 +24,4 @@ My work centers on **reliability** and **representation learning** in **multimod
 
 If you're interested in discussing my research or anything else, feel free to reach out via [email](mailto:sepehr@msu.edu) or connect with me on social media. You can find more about my work on this website and in [my CV](https://sepehrdehdashtian.github.io/assets/pdf/CV-SepehrDehdashtian.pdf). 
 
-**<span style="color: red;">I am actively seeking research internship opportunities for summer 2025 and would love to hear from you.</span>**
+<!-- **<span style="color: red;">I am actively seeking research internship opportunities for summer 2025 and would love to hear from you.</span>** -->
