@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Thrilled to announce that I've joined Apple AIML as a Research Intern! 🎉
+Thrilled to announce that I've joined **Apple AIML** as a Research Intern! 🎉
