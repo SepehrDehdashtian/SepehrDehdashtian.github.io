@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **PolyJuice Makes It Real: Black-Box, Universal Red-Teaming for Synthetic Image Detectors**, has been accepted at **NeurIPS 2025**. 
+Our paper, **PolyJuice Makes It Real: Black-Box, Universal Red-Teaming for Synthetic Image Detectors**, has been accepted at **NeurIPS 2025**.

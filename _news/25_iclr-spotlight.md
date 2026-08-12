@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **OASIS**, has been accepted as **spotlight** ✨ at **ICLR 2025**. 
+Our paper, **OASIS**, has been accepted as **spotlight** ✨ at **ICLR 2025**.

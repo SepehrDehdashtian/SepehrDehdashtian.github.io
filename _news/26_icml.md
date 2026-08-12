@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **FoeGlass: When Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**, has been accepted at **ICML 2026**. 
+Our paper, **FoeGlass: When Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**, has been accepted at **ICML 2026**.

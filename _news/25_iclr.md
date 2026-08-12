@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, **OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes**, has been accepted at **ICLR 2025**. 
+Our paper, **OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes**, has been accepted at **ICLR 2025**.
