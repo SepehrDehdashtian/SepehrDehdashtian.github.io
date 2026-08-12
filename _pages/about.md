@@ -28,14 +28,14 @@ diffusion models.
 - At **Reality Defender**, I built automated red-teaming pipelines for audio and image deepfake detectors.
 
 ##### **Sociotechnical Evaluation and Bias Measurement in Generative Models**
-I design measurable, distributional definitions and evaluation toolkits for concerns that are usually only described in words, such as stereotypes in text-to-image models (OASIS, ICLR 2025 Spotlight), and I audit how dataset scale affects racial bias in vision-language models (FAccT 2024).
+I design measurable, distributional definitions and evaluation toolkits for concerns that are usually only described in words, such as stereotypes in text-to-image models ([OASIS, ICLR 2025 Spotlight](https://sepehrdehdashtian.github.io/Papers/OASIS/index.html)), and I audit how dataset scale affects racial bias in vision-language models ([FAccT 2024](https://arxiv.org/pdf/2405.04623)).
 
 
 ##### **Red-Teaming, Adversarial Robustness, and Controllable Generation**
-I build automated, black-box red-teaming pipelines that find failure modes in synthetic-image and audio-deepfake detectors (PolyJuice, NeurIPS 2025; FoeGlass, ICML 2026), and training-free steering methods that debias, erase unsafe concepts from, and red-team diffusion models with precise control over the generation process (LatentCompass).
+I build automated, black-box red-teaming pipelines that find failure modes in synthetic-image and audio-deepfake detectors ([PolyJuice, NeurIPS 2025](https://sepehrdehdashtian.github.io/Papers/PolyJuice/index.html); [FoeGlass, ICML 2026](https://openreview.net/pdf?id=J6amahDTKV)), and training-free steering methods that debias, erase unsafe concepts from, and red-team diffusion models with precise control over the generation process (LatentCompass).
 
 ##### **Representation Learning and Kernel Methods for Debiasing**
-I develop closed-form debiasing methods for vision-language models using kernel methods in reproducing kernel Hilbert spaces (FairerCLIP, ICLR 2024), and I characterize the fundamental trade-offs between utility and fairness in discriminative models (CVPR 2024).
+I develop closed-form debiasing methods for vision-language models using kernel methods in reproducing kernel Hilbert spaces ([FairerCLIP, ICLR 2024](https://sepehrdehdashtian.github.io/Papers/FairerCLIP/index.html)), and I characterize the fundamental trade-offs between utility and fairness in discriminative models ([U-FaTE, CVPR 2024](https://sepehrdehdashtian.github.io/Papers/U-FaTE/index.html)).
 
 
 
